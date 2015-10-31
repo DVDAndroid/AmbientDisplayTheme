@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="ThemeName">Ambient Display</string>
+
+    <string name="ThemeAuthor">dvdandroid</string>
+
+    <string name="ThemeDescription">Enable Ambient Display with a overlay theme!</string>
+
+    <string name="ThemeChangelog">First release</string>
+
+    <string name="NormalOverlayNames">SystemUI,FrameworkRes</string>
+
+    <string name="StyleSpecificOverlayNames"></string>
+
+    <string name="Styles"></string>
+
+</resources>
